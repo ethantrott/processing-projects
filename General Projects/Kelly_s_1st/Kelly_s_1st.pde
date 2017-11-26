@@ -1,0 +1,10 @@
+size(600,600);
+strokeWeight(1);
+stroke(0);
+fill(#7C4393);
+ellipse(300,300,98,98);
+fill(#F0E630);
+ellipse(300,300,90,90);
+fill(#111111);
+ellipse(300,300,55,55);
+arc(300, 300, 80, 80, 0, PI+QUARTER_PI, PIE);
